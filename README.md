@@ -2,8 +2,8 @@
 Bug statistics of Zen Tao
 
 ## 实现功能
-1. 对禅道上的bug进行定制化统计，生成丰富的图表报告
-![](http://p1.pstatp.com/large/pgc-image/15272312159912bc3ba1715)
+1. 对禅道上的bug进行定制化统计，生成丰富的图表报告   
+![](http://p3.pstatp.com/large/pgc-image/1527232872444433daf1633)
 2. 通过jenkins自动构建，每日邮件通知结果
 
 ## 准备工作
